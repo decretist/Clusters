@@ -8,8 +8,8 @@ As decided in 2 March 2018 meeting with Stan Chodorow,
 create samples of _dicta_ from the _causae_ in Eichbauer's
 Clusters A, B, and C (Sg 673).
 
-Cluster A samples hand-edited from [Gratian/corrections/dicta.txt]\
-(https://github.com/decretist/Gratian/blob/master/corrections/dicta.txt).
+Cluster A samples hand-edited from 
+[Gratian/corrections/dicta.txt](https://github.com/decretist/Gratian/blob/master/corrections/dicta.txt).
 
 Need to check C.13 q.1 _d.p.c.1_ and C.14 q.1 _d.p.c.1_ against
 Melodie Harris Eichbauer's _Lectiones propriae in codice Sangallensi
